@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Candidate Registration</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="verified.png" alt="Verified">
+            <h1>Candidate Registration</h1>
+        </div>
+        <div class="content">
+            <p>Candidate Name: U Malli Rao</p>
+            <p>Candidate ID: TR495918</p>
+            <p>Sector Name: Logistics</p>
+            <p>QF Code: LBC/Q0102</p>
+            <p>QP Version: 3.0</p>
+            <p>Job Role Name: Warehouse Supervisor</p>
+            <p>Grade: 5</p>
+            <p>Document ID: 8725442z0w395</p>
+            <p>Issuance Date: 26-Nov-2024</p>
+            <p>Valid Upto: 03-Oct-2026</p>
+            <p>Type: Certificate</p>
+        </div>
+        <div class="footer">
+            <div class="links">
+                <h3>Links</h3>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">Terms & Conditions</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="#">User Manual</a></li>
+                    <li><a href="#">Sector & SSC</a></li>
+                    <li><a href="#">Frequently Asked Questions</a></li>
+                </ul>
+            </div>
+            <div class="disclaimer">
+                <h3>Disclaimer</h3>
+                <p>This is a sample disclaimer. Please replace it with actual disclaimer text.</p>
+            </div>
+            <div class="logos">
+                <img src="nsdc-logo.png" alt="NSDC">
+                <img src="google-play.png" alt="Google Play">
+                <img src="google-play.png" alt="Google Play">
+                <img src="google-play.png" alt="Google Play">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
